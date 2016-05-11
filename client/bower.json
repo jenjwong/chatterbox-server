@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "homepage": "https://github.com/jenjwong/2016-04-chatterbox-server",
+  "authors": [
+    "Jen J Wong <jenjwong@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
